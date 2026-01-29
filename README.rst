@@ -1,4 +1,4 @@
-pyo3-project-template
-=====================
+DropIn
+======
 
-HydroRoll Pyo3 Project Template
+Minecraft Instances Manager
