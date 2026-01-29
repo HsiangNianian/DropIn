@@ -8,10 +8,8 @@ dynamic = ["version"]
 description = "Minecraft Instances Manager"
 authors = [{ name = "HsiangNianian", email = "i@jyunko.cn" }]
 dependencies = []
-requires-python = ">=3.9"
-readme.content-type = "text/x-rst"
-readme.text = """
-"""
+requires-python = ">=3.10"
+readme.file = "README.md"
 license = { text = "MIT" }
 keywords = ["hydroroll"]
 classifiers = [
