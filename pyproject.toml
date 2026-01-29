@@ -26,8 +26,8 @@ classifiers = [
 ]
 
 [project.urls]
-homepage = "https://hydroroll.team/"
-repository = "https://github.com/HsiangNianian/DropIn"
+homepage = "https://dropin.hydroroll.team/"
+repository = "https://github.com/HydroRoll-Team/DropIn"
 documentation = "https://dropin.hydroroll.team/"
 
 [project.scripts]

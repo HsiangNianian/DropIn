@@ -6,7 +6,7 @@ description = "Minecraft Instances Manager"
 license = "MIT"
 documentation = "https://dropin.hydroroll.team/"
 homepage = "https://dropin.hydroroll.team/"
-repository = "https://github.com/HsiangNianian/DropIn"
+repository = "https://github.com/HydroRoll-Team/DropIn"
 authors = ["HsiangNianian"]
 
 [lib]
