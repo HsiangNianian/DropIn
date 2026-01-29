@@ -1,4 +1,4 @@
-Drop*In*
+Dro*pin*
 ========
 
 Minecraft Instances Manager
