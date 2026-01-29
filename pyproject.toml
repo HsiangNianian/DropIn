@@ -10,7 +10,7 @@ authors = [{ name = "HsiangNianian", email = "i@jyunko.cn" }]
 dependencies = []
 requires-python = ">=3.10"
 readme.file = "README.md"
-license = { text = "MIT" }
+license = { text = "AGPL-3.0" }
 keywords = ["hydroroll"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
