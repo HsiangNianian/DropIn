@@ -3,10 +3,10 @@ requires = ["maturin>=1.4,<2.0"]
 build-backend = "maturin"
 
 [project]
-name = "pyo3_template"
+name = "dropin"
 dynamic = ["version"]
-description = "HydroRoll Pyo3 Project Template"
-authors = [{ name = "yourname", email = "you@hydroroll.team" }]
+description = "Minecraft Instances Manager"
+authors = [{ name = "HsiangNianian", email = "i@jyunko.cn" }]
 dependencies = []
 requires-python = ">=3.9"
 readme.content-type = "text/x-rst"
@@ -27,17 +27,17 @@ classifiers = [
 
 [project.urls]
 homepage = "https://hydroroll.team/"
-repository = "https://github.com/HydroRoll-Team/{project}"
-documentation = "https://{project}.hydroroll.team/"
+repository = "https://github.com/HsiangNianian/DropIn"
+documentation = "https://dropin.hydroroll.team/"
 
 [project.scripts]
-pyo3_template = "pyo3_template.__main__:main"
-pyo3t = "pyo3_template.__main__:main"
+dropin = "dropin.__main__:main"
+di = "dropin.__main__:main"
 
 [tool.maturin]
 features = ["pyo3/extension-module"]
-module-name = "pyo3_template._core"
-python-package = "pyo3_template"
+module-name = "dropin._core"
+python-package = "dropin"
 python-source = "src"
 
 [tool.ruff]
